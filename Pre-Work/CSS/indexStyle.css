@@ -1,0 +1,45 @@
+body{
+	background-color: rgb(238,235,248);
+}
+h2{
+	color:maroon;
+	font-family:cursive;
+	font-weight:500px;
+	font-align:center;
+	text-decoration:underline;
+}
+ #career{
+	font-size:100%;
+	text-decoration:none
+	font-color:red;
+
+}
+
+#personal{
+	
+	font-color:maroon;
+}	
+#div1{
+	background-color: rgb(255,215,215);
+
+}
+#div2{
+	background-color: rgb(255,255,215);
+
+}
+#div1, #div2{
+	border:dashed;
+	position:static;
+}
+
+a{
+	font-size:actual;
+	color: purple;	
+
+}
+li{
+	font-size:95%;
+}
+.favList{
+
+}

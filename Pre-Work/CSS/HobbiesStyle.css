@@ -1,0 +1,32 @@
+body{
+	background-color: rgb(238,235,248);
+}
+h2{
+	color:maroon;
+	font-family:cursive;
+	font-weight:500px;
+	font-align:center;
+	text-decoration:underline;
+}
+p{
+	font-size:100%;
+	text-decoration:none
+
+}
+a{
+	font-size:actual;
+	color: purple;	
+
+}
+li{
+	font-size:95%;
+}
+
+#div3{
+background-color: rgb(255,235,215);
+
+}
+#div4{
+background-color: rgb(236,246,255);
+
+}
